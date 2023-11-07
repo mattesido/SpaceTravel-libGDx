@@ -1,6 +1,6 @@
 #            **_Space Travel_**
 
-![assets/logo/logo.png](https://github.com/mattesido/SpaceTravel/blob/b1da1a0e84db4922daa73eb98921eeb9eb4ff722/assets/logo/logo.png)
+![assets/logo/logo.png](assets/logo/logo.png)
 Inspired by International space Missions like :
 * Apollo (USA)
 * Marineer (USA)
@@ -22,24 +22,24 @@ This project was done for the 'Programmazione ad Oggetti e Lab.' course at UniMO
 ## Overview
 **Space Travel** brings its inspiration from Kerbal Space Program and international space missions like the Apollo one,Marineer or others!
 
-|![(assets/markdown files/second screen.png)](https://github.com/mattesido/SpaceTravel/blob/01c904cdcd3b96c5894631f29f13210550ee17e6/assets/markdown%20files/first%20screen.png)|
+|![(assets/markdown files/second screen.png)](assets/markdown%20files/first%20screen.png)|
 |:----------------------------------------------------------------------------------------------:|
 |       Choose the planet on which you want to land!       |
 
-| ![(assets/markdown files/second screen.png)](https://github.com/mattesido/SpaceTravel/blob/01c904cdcd3b96c5894631f29f13210550ee17e6/assets/markdown%20files/second%20screen.png) |
+| ![(assets/markdown files/second screen.png)](assets/markdown%20files/second%20screen.png) |
 |:----------------------------------------------------------------------------------------------:|
 |       Choose correctly fuel, propellent and oxygen in order to correctly make a landing!       |
 
-| ![(assets/markdown files/third screen.png)](https://github.com/mattesido/SpaceTravel/blob/01c904cdcd3b96c5894631f29f13210550ee17e6/assets/markdown%20files/third%20screen.png) |
+| ![(assets/markdown files/third screen.png)](assets/markdown%20files/third%20screen.png) |
 |:-------------------------------------------------------------------------------------------------------:|
 |                            Be sure to avoid the rocket to explode!                            |
 
-|  ![assets/markdown files/fourth screen.png)](https://github.com/mattesido/SpaceTravel/blob/01c904cdcd3b96c5894631f29f13210550ee17e6/assets/markdown%20files/fourth%20screen.png)|
+|  ![assets/markdown files/fourth screen.png)](assets/markdown%20files/fourth%20screen.png)|
 |:------------------------------------------------------------------------------------------------:|
 |           Destroy asteroids and other space junk along your journey!             |
 
 
-| ![assets/markdown files/fifth screen.png)](https://github.com/mattesido/SpaceTravel/blob/01c904cdcd3b96c5894631f29f13210550ee17e6/assets/markdown%20files/fifth%20screen.png)) |
+| ![assets/markdown files/fifth screen.png)](assets/markdown%20files/fifth%20screen.png) |
 |:------------------------------------------------------------------------------------------------------:|
 |               Successfully win the game as the spatial mission did before you!             |
 
